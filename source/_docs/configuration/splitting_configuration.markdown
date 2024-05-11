@@ -505,7 +505,7 @@ bedroom:
     - light.bedroom_lamp
     - light.bedroom_overhead
 hallway:
-  name: Hallway
+  name: "Hallway"
   entities:
     - light.hallway
     - thermostat.home
